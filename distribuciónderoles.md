@@ -23,3 +23,6 @@ https://app.zeplin.io/project/5ad4d8f6c958883984fdd531/screen/5c2ceaf38cc2d146a7
 
 **asignar barras**
 https://app.zeplin.io/project/5ad4d8f6c958883984fdd531/screen/5c2e733e3e193baefe8fc740
+
+**configuración de módulos**
+https://app.zeplin.io/project/5ad4d8f6c958883984fdd531/screen/5c2fb5b801a968af3a18b105
